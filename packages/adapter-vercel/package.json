@@ -28,7 +28,7 @@
 		"check": "tsc"
 	},
 	"dependencies": {
-		"@vercel/nft": "^0.22.1",
+		"@vercel/nft": "^0.23.0",
 		"esbuild": "^0.16.3"
 	},
 	"devDependencies": {
